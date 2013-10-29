@@ -12,7 +12,7 @@ Rectangle{
             id: copyButton
             buttonColor: "pink"
             buttonText: "Copy"
-        
+                   
         }
         Button{
             id: pasteButton
